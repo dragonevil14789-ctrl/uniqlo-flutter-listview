@@ -1,0 +1,15 @@
+name: uniqlo_list_view
+description: Uniqlo List View App
+publish_to: 'none'
+
+environment:
+  sdk: '^3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
